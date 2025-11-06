@@ -1,3 +1,4 @@
+-- Creating Table
 CREATE TABLE cd.members
 (
     memid integer NOT NULL,
