@@ -1,6 +1,6 @@
 # Muhammad Rubeel Saleem . Jarvis Consulting
 
-I?m Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I?ve built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I?m deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation.
+I'm Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I?ve built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I?m deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation.
 
 ## Skills
 
@@ -15,7 +15,7 @@ I?m Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem](https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem/tree/master/linux_sql)]: Developed a Linux based cluster monitoring agent that collects hardware specifications and usage metrics across multiple servers. Built Bash scripts and PostgreSQL integration to automate data ingestion and reporting.
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem/tree/master/core_java)]:
       
@@ -35,30 +35,27 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_Muhammadru
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Diabetes Risk Predictor** [[GitHub](https://github.com/iRubeel/Diabetes-Risk-Prediction)]: Developed a predictive analytics application using R and Python to assess diabetes risk based on key health indicators such as BMI, glucose level, and blood pressure. Implemented logistic regression and Recursive Feature Elimination (RFE) to optimize model accuracy (achieving 80%). Deployed an interactive dashboard using R Shiny for real-time prediction and visualization, enabling accessible health risk assessment through a user-friendly interface.
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Predicting Agricultural CO2 Emissions**: Created a predictive model using advanced statistic techniques to forecast CO2 emissions from Atlantic Canadian potato fields, incorporating multi factor environmental data to improve prediction reliability for business story telling.
+
+**Investment Portfolio** [[GitHub](https://github.com/iRubeel/InvestmentPortfolio)]: Developed a Java Swing application for efficient investment portfolio management, enabling users to perform transactions, visualize holdings, and track performance with robust data validation and user-friendly UI. Integrated financial data models and implemented responsive operations to enhance portfolio control and insights.
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Software Developer, Jarvis Consulting (Oct 2025 - present)**: Building end-to-end data engineering and DevOps solutions leveraging Linux, SQL, Docker, and cloud platforms.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Business Analyst Intern, Ontario School Boards Insurance Exchange (OSBIE) (Jan 2024 - Aug 2024)**: Designed and implemented a GenAI chatbot using LangChain, Pinecone, and Ollama for RAG-based document retrieval, streamlining FAQ automation and internal policy support. Developed a Python data transformation pipeline to clean and standardize 1,000+ inspection records, improving analytical efficiency by 50%. Supported CRM integration efforts by gathering SDLC requirements across multiple departments to improve collaboration and data flow.
+
+**Data Engineer Intern, TD Bank Group (May 2023 - Aug 2023)**: Automated ETL ingestion pipelines using Azure Databricks and Data Factory to integrate financial data across multiple sources. Applied Medallion Architecture (Bronze- Silver-Gold layers) to improve data lineage and reliability. Resolve 100+ HiveQL and PySpark failures through root cause analysis and quality monitoring scripts
+
+**Software Engineer Intern, TD Bank Group (May 2022 - Dec 2022)**: Refactored and optimized .NET and C# microservices for internal APIs, improving backend data integration and reducing response latency by 50%. Redesigned ReactJS user interfaces for improved usability and reduced load times by 30%. Developed SQL performance tuning strategies and indexing optimizations to enhance query efficiency.
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
-
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**University of Guelph (2020-2025)**, Bachelor of Computing, Honours Co-op, Computer Science
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Azure AI Fundamentals (AZ-900)

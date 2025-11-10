@@ -1,40 +1,34 @@
 {
   "education": [
     {
-      "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2015, 2016): Ut enim ad minim veniam",
-        "GPA: 3.8/4.0"
-      ],
-      "degree": "Bachelor of Applied Sciences",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2012-2016",
-      "school_name": "XYZ university"
-    },
-    {
       "awards_achievements": null,
-      "degree": "Master of Engineering",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2016-2018",
-      "school_name": "XYZ university"
+      "degree": "Bachelor of Computing, Honours Co-op",
+      "department": "Computer Science",
+      "duration": "2020-2025",
+      "school_name": "University of Guelph"
     }
   ],
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem",
   "highlighted_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
-      "name": "Web app for resturant"
+      "description": "Developed a predictive analytics application using R and Python to assess diabetes risk based on key health indicators such as BMI, glucose level, and blood pressure. Implemented logistic regression and Recursive Feature Elimination (RFE) to optimize model accuracy (achieving 80%). Deployed an interactive dashboard using R Shiny for real-time prediction and visualization, enabling accessible health risk assessment through a user-friendly interface.",
+      "git_url": "https://github.com/iRubeel/Diabetes-Risk-Prediction",
+      "name": "Diabetes Risk Predictor"
     },
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Created a predictive model using advanced statistic techniques to forecast CO2 emissions from Atlantic Canadian potato fields, incorporating multi factor environmental data to improve prediction reliability for business story telling.",
       "git_url": null,
-      "name": "Machine Learning"
+      "name": "Predicting Agricultural CO2 Emissions"
+    },
+    {
+      "description": "Developed a Java Swing application for efficient investment portfolio management, enabling users to perform transactions, visualize holdings, and track performance with robust data validation and user-friendly UI. Integrated financial data models and implemented responsive operations to enhance portfolio control and insights.",
+      "git_url": "https://github.com/iRubeel/InvestmentPortfolio",
+      "name": "Investment Portfolio"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Developed a Linux based cluster monitoring agent that collects hardware specifications and usage metrics across multiple servers. Built Bash scripts and PostgreSQL integration to automate data ingestion and reporting.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     },
@@ -77,37 +71,35 @@
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
+        "Azure AI Fundamentals (AZ-900)"
       ],
       "title": "Certificates"
-    },
-    {
-      "bullets": [
-        "Winner"
-      ],
-      "title": "Awards"
-    },
-    {
-      "bullets": [
-        "Basketball player",
-        "Competitive gaming",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
-      ],
-      "title": "Activities/Hobbies"
     }
   ],
   "professional_experience": [
     {
-      "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
+      "company": "Jarvis Consulting",
+      "description": "Building end-to-end data engineering and DevOps solutions leveraging Linux, SQL, Docker, and cloud platforms.",
+      "duration": "Oct 2025 - present",
       "title": "Software Developer"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "company": "Ontario School Boards Insurance Exchange (OSBIE)",
+      "description": "Designed and implemented a GenAI chatbot using LangChain, Pinecone, and Ollama for RAG-based document retrieval, streamlining FAQ automation and internal policy support. Developed a Python data transformation pipeline to clean and standardize 1,000+ inspection records, improving analytical efficiency by 50%. Supported CRM integration efforts by gathering SDLC requirements across multiple departments to improve collaboration and data flow.",
+      "duration": "Jan 2024 - Aug 2024",
+      "title": "Business Analyst Intern"
+    },
+    {
+      "company": "TD Bank Group",
+      "description": "Automated ETL ingestion pipelines using Azure Databricks and Data Factory to integrate financial data across multiple sources. Applied Medallion Architecture (Bronze- Silver-Gold layers) to improve data lineage and reliability. Resolve 100+ HiveQL and PySpark failures through root cause analysis and quality monitoring scripts",
+      "duration": "May 2023 - Aug 2023",
+      "title": "Data Engineer Intern"
+    },
+    {
+      "company": "TD Bank Group",
+      "description": "Refactored and optimized .NET and C# microservices for internal APIs, improving backend data integration and reducing response latency by 50%. Redesigned ReactJS user interfaces for improved usability and reduced load times by 30%. Developed SQL performance tuning strategies and indexing optimizations to enhance query efficiency.",
+      "duration": "May 2022 - Dec 2022",
+      "title": "Software Engineer Intern"
     }
   ],
   "skills": {
@@ -133,5 +125,5 @@
       "Agile/Scrum"
     ]
   },
-  "summary": "I?m Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I?ve built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I?m deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation."
+  "summary": "I'm Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I?ve built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I?m deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation."
 }
