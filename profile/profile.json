@@ -33,11 +33,7 @@
       "name": "Cluster Monitor"
     },
     {
-      "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      ],
+      "description": "",
       "git_url": "/core_java",
       "name": "Core Java Apps"
     },
@@ -87,19 +83,19 @@
       "company": "Ontario School Boards Insurance Exchange (OSBIE)",
       "description": "Designed and implemented a GenAI chatbot using LangChain, Pinecone, and Ollama for RAG-based document retrieval, streamlining FAQ automation and internal policy support. Developed a Python data transformation pipeline to clean and standardize 1,000+ inspection records, improving analytical efficiency by 50%. Supported CRM integration efforts by gathering SDLC requirements across multiple departments to improve collaboration and data flow.",
       "duration": "Jan 2024 - Aug 2024",
-      "title": "Business Analyst Intern"
+      "title": "Business Analyst"
     },
     {
       "company": "TD Bank Group",
       "description": "Automated ETL ingestion pipelines using Azure Databricks and Data Factory to integrate financial data across multiple sources. Applied Medallion Architecture (Bronze- Silver-Gold layers) to improve data lineage and reliability. Resolve 100+ HiveQL and PySpark failures through root cause analysis and quality monitoring scripts",
       "duration": "May 2023 - Aug 2023",
-      "title": "Data Engineer Intern"
+      "title": "Data Engineer"
     },
     {
       "company": "TD Bank Group",
       "description": "Refactored and optimized .NET and C# microservices for internal APIs, improving backend data integration and reducing response latency by 50%. Redesigned ReactJS user interfaces for improved usability and reduced load times by 30%. Developed SQL performance tuning strategies and indexing optimizations to enhance query efficiency.",
       "duration": "May 2022 - Dec 2022",
-      "title": "Software Engineer Intern"
+      "title": "Software Engineer "
     }
   ],
   "skills": {
@@ -112,7 +108,7 @@
     ],
     "familiar": [
       "Docker / Containerization",
-      "FastAPI / Flask",
+      "FastAPI",
       "Big Data (Spark, Hadoop)",
       "LangChain / RAG Applications",
       "Data Modeling \u0026 Visualization"
@@ -125,5 +121,5 @@
       "Agile/Scrum"
     ]
   },
-  "summary": "I'm Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I?ve built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I?m deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation."
+  "summary": "I'm Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I've built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I'm deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation."
 }

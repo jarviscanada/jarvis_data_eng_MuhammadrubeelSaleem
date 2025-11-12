@@ -1,6 +1,6 @@
 # Muhammad Rubeel Saleem . Jarvis Consulting
 
-I'm Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I?ve built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I?m deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation.
+I'm Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I've built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I'm deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation.
 
 ## Skills
 
@@ -8,7 +8,7 @@ I'm Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project 
 
 **Competent:** C#, Data Engineering (ETL, Data Pipelines), Power BI / Tableau, Cloud Platforms (Azure, AWS), Machine Learning (scikit-learn, TensorFlow)
 
-**Familiar:** Docker / Containerization, FastAPI / Flask, Big Data (Spark, Hadoop), LangChain / RAG Applications, Data Modeling & Visualization
+**Familiar:** Docker / Containerization, FastAPI, Big Data (Spark, Hadoop), LangChain / RAG Applications, Data Modeling & Visualization
 
 ## Jarvis Projects
 
@@ -17,11 +17,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_Muhammadru
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem/tree/master/linux_sql)]: Developed a Linux based cluster monitoring agent that collects hardware specifications and usage metrics across multiple servers. Built Bash scripts and PostgreSQL integration to automate data ingestion and reporting.
 
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem/tree/master/core_java)]:
-      
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
+**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem/tree/master/core_java)]: Not Started
 
 **Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem/tree/master/springboot)]: Not Started
 
@@ -46,11 +42,11 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_Muhammadru
 
 **Software Developer, Jarvis Consulting (Oct 2025 - present)**: Building end-to-end data engineering and DevOps solutions leveraging Linux, SQL, Docker, and cloud platforms.
 
-**Business Analyst Intern, Ontario School Boards Insurance Exchange (OSBIE) (Jan 2024 - Aug 2024)**: Designed and implemented a GenAI chatbot using LangChain, Pinecone, and Ollama for RAG-based document retrieval, streamlining FAQ automation and internal policy support. Developed a Python data transformation pipeline to clean and standardize 1,000+ inspection records, improving analytical efficiency by 50%. Supported CRM integration efforts by gathering SDLC requirements across multiple departments to improve collaboration and data flow.
+**Business Analyst, Ontario School Boards Insurance Exchange (OSBIE) (Jan 2024 - Aug 2024)**: Designed and implemented a GenAI chatbot using LangChain, Pinecone, and Ollama for RAG-based document retrieval, streamlining FAQ automation and internal policy support. Developed a Python data transformation pipeline to clean and standardize 1,000+ inspection records, improving analytical efficiency by 50%. Supported CRM integration efforts by gathering SDLC requirements across multiple departments to improve collaboration and data flow.
 
-**Data Engineer Intern, TD Bank Group (May 2023 - Aug 2023)**: Automated ETL ingestion pipelines using Azure Databricks and Data Factory to integrate financial data across multiple sources. Applied Medallion Architecture (Bronze- Silver-Gold layers) to improve data lineage and reliability. Resolve 100+ HiveQL and PySpark failures through root cause analysis and quality monitoring scripts
+**Data Engineer, TD Bank Group (May 2023 - Aug 2023)**: Automated ETL ingestion pipelines using Azure Databricks and Data Factory to integrate financial data across multiple sources. Applied Medallion Architecture (Bronze- Silver-Gold layers) to improve data lineage and reliability. Resolve 100+ HiveQL and PySpark failures through root cause analysis and quality monitoring scripts
 
-**Software Engineer Intern, TD Bank Group (May 2022 - Dec 2022)**: Refactored and optimized .NET and C# microservices for internal APIs, improving backend data integration and reducing response latency by 50%. Redesigned ReactJS user interfaces for improved usability and reduced load times by 30%. Developed SQL performance tuning strategies and indexing optimizations to enhance query efficiency.
+**Software Engineer , TD Bank Group (May 2022 - Dec 2022)**: Refactored and optimized .NET and C# microservices for internal APIs, improving backend data integration and reducing response latency by 50%. Redesigned ReactJS user interfaces for improved usability and reduced load times by 30%. Developed SQL performance tuning strategies and indexing optimizations to enhance query efficiency.
 
 
 ## Education
