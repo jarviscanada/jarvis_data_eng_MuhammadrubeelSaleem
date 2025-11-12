@@ -27,7 +27,7 @@ skills:
   # At least 5 skills
   familiar:
     - Docker / Containerization
-    - FastAPI / Flask
+    - FastAPI
     - Big Data (Spark, Hadoop)
     - LangChain / RAG Applications
     - Data Modeling & Visualization
@@ -44,9 +44,8 @@ jarvis_projects:
   - name: "Core Java Apps"
     git_url: "/core_java"
     description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - ""
+
   - name: "Springboot App"
     git_url: "/springboot"
     description: ""
@@ -99,7 +98,7 @@ professional_experience:
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Building end-to-end data engineering and DevOps solutions leveraging Linux, SQL, Docker, and cloud 
       platforms."
-  - title: "Business Analyst Intern"
+  - title: "Business Analyst"
     company: "Ontario School Boards Insurance Exchange (OSBIE)"
     duration: "Jan 2024 - Aug 2024"
     description: "Designed and implemented a GenAI chatbot using LangChain, Pinecone, and Ollama for RAG-based 
@@ -108,7 +107,7 @@ professional_experience:
       analytical efficiency by 50%. Supported CRM integration efforts by gathering SDLC requirements 
       across multiple departments to improve collaboration and data flow."
 
-  - title: "Data Engineer Intern"
+  - title: "Data Engineer"
     company: "TD Bank Group"
     duration: "May 2023 - Aug 2023"
     description:
@@ -116,7 +115,7 @@ professional_experience:
       financial data across multiple sources. Applied Medallion Architecture (Bronze- Silver-Gold layers) 
       to improve data lineage and reliability. Resolve 100+ HiveQL and PySpark failures through root cause analysis and quality monitoring scripts"
 
-  - title: "Software Engineer Intern"
+  - title: "Software Engineer "
     company: "TD Bank Group"
     duration: "May 2022 - Dec 2022"
     description:
