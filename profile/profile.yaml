@@ -1,0 +1,158 @@
+# Preferred name (Characters only)
+name: "Muhammad Rubeel Saleem"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_MuhammadrubeelSaleem
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I'm Muhammad Rubeel Saleem, a Computer Science graduate with a Minor in Project Management from the University of Guelph. Throughout my studies and internships at TD Bank and OSBIE, I've built hands-on experience in data engineering, analytics, and process automation developing ETL pipelines, Power BI dashboards, and AI-powered solutions that drive real business impact. What excites me most about the software industry is its ability to turn raw data into insight and innovation. I'm deeply passionate about designing scalable, data-driven systems and consulting on solutions that bridge technology with business transformation.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Python
+    - RDBMS/SQL (PostgreSQL, MySQL)
+    - Linux/Bash
+    - Git/GitHub
+    - Agile/Scrum
+  # At least 5 skills
+  competent:
+    - C#
+    - Data Engineering (ETL, Data Pipelines)
+    - Power BI / Tableau
+    - Cloud Platforms (Azure, AWS)
+    - Machine Learning (scikit-learn, TensorFlow)
+  # At least 5 skills
+  familiar:
+    - Docker / Containerization
+    - FastAPI
+    - Big Data (Spark, Hadoop)
+    - LangChain / RAG Applications
+    - Data Modeling & Visualization
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a Linux based cluster monitoring agent that collects hardware specifications and usage metrics
+      across multiple servers. Built Bash scripts and PostgreSQL integration to automate data ingestion and
+      reporting.
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+       ""
+
+#  - name: "Springboot App"
+#    git_url: "/springboot"
+#    description: ""
+#  - name: "Python Data Analytics"
+#    git_url: "/python_data_anlytics"
+#    description: ""
+#  - name: "Hadoop"
+#    git_url: "/hadoop"
+#    description: ""
+#  - name: "Spark"
+#    git_url: "/spark"
+#    description: ""
+#  - name: "Cloud/DevOps"
+#    git_url: "/cloud_devops"
+#    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Diabetes Risk Predictor"
+    #URL is optional
+    git_url: "https://github.com/iRubeel/Diabetes-Risk-Prediction"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a predictive analytics application using R and Python to assess diabetes risk based on
+      key health indicators such as BMI, glucose level, and blood pressure. Implemented logistic regression
+      and Recursive Feature Elimination (RFE) to optimize model accuracy (achieving 80%). Deployed an
+      interactive dashboard using R Shiny for real-time prediction and visualization, enabling accessible
+      health risk assessment through a user-friendly interface.
+  - name: "Predicting Agricultural CO2 Emissions"
+    git_url:
+    description: Created a predictive model using advanced statistic techniques to forecast CO2 emissions from Atlantic 
+      Canadian potato fields, incorporating multi factor environmental data to improve prediction reliability for business story telling.
+
+  - name: "Investment Portfolio"
+    git_url: "https://github.com/iRubeel/InvestmentPortfolio"
+    description: Developed a Java Swing application for efficient investment portfolio management, enabling users to perform
+      transactions, visualize holdings, and track performance with robust data validation and user-friendly UI.
+      Integrated financial data models and implemented responsive operations to enhance portfolio control and insights.
+
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis Consulting"
+    duration: "Oct 2025 - present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Building end-to-end data engineering and DevOps solutions leveraging Linux, SQL, Docker, and cloud 
+      platforms."
+  - title: "Business Analyst"
+    company: "Ontario School Boards Insurance Exchange (OSBIE)"
+    duration: "Jan 2024 - Aug 2024"
+    description: "Designed and implemented a GenAI chatbot using LangChain, Pinecone, and Ollama for RAG-based 
+      document retrieval, streamlining FAQ automation and internal policy support. Developed a Python 
+      data transformation pipeline to clean and standardize 1,000+ inspection records, improving 
+      analytical efficiency by 50%. Supported CRM integration efforts by gathering SDLC requirements 
+      across multiple departments to improve collaboration and data flow."
+
+  - title: "Data Engineer"
+    company: "TD Bank Group"
+    duration: "May 2023 - Aug 2023"
+    description:
+      "Automated ETL ingestion pipelines using Azure Databricks and Data Factory to integrate 
+      financial data across multiple sources. Applied Medallion Architecture (Bronze- Silver-Gold layers) 
+      to improve data lineage and reliability. Resolve 100+ HiveQL and PySpark failures through root cause analysis and quality monitoring scripts"
+
+  - title: "Software Engineer "
+    company: "TD Bank Group"
+    duration: "May 2022 - Dec 2022"
+    description:
+        "Refactored and optimized .NET and C# microservices for internal APIs, improving backend data integration 
+        and reducing response latency by 50%. Redesigned ReactJS user interfaces for improved usability and 
+        reduced load times by 30%. Developed SQL performance tuning strategies and indexing optimizations to 
+        enhance query efficiency."
+
+#List of edcuation
+education: 
+  - school_name: "University of Guelph"
+    duration: "2020-2025"
+    degree: "Bachelor of Computing, Honours Co-op"
+    department: "Computer Science"
+    # optional
+    awards_achievements: 
+#      - "Scholarship"
+
+
+#  - school_name: "XYZ university"
+#    duration: "2016-2018"
+#    degree: "Master of Engineering"
+#    department: "Electrical and Computer Engineering"
+#    awards_achievements:
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Azure AI Fundamentals (AZ-900)"
+#  - title: "Awards"
+#    bullets:
+#      - "Winner"
+#  - title: "Activities/Hobbies"
+#    bullets:
+#      - "Basketball player"
+#      - "Competitive gaming"
+#      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
